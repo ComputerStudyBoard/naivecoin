@@ -1,5 +1,5 @@
 #!/bin/bash
-echo 'test';
+#echo 'test';
 
 usage () {
     echo "Usage: $0 -a HOST -p PORT -l LOG_LEVEL -e PEERS -n NAME"
